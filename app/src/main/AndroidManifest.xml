@@ -142,11 +142,6 @@
 
         <service android:name="com.google.android.gms.analytics.CampaignTrackingService" />
 
-        <meta-data
-            android:name="io.fabric.ApiKey"
-            android:value="<Your_fabric_key>" />
-
-
     </application>
 
 </manifest>
